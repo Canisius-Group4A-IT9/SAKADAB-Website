@@ -1,0 +1,32 @@
+/* Type the CSS styles for the data presentation, conclusion, and recommendation divs here */
+
+img{
+width: 300px ;
+height: 300px;
+position: center;
+}
+
+div#header{
+text-align:center;
+
+}	
+	
+div#navigation{
+text-align:center;}		
+
+div#issue{
+text-align:center;
+}	
+
+div#advocacy{
+text-align:center;}	
+
+div#group{
+text-align:center;}	
+
+div#sidebar{
+text-align:center;}	
+
+div#footer{
+text-align:center;}	
+

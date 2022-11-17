@@ -1,0 +1,93 @@
+a.nav{
+font-family: cursive;
+background-color:#faf252;
+color: #1c2e4d;
+padding:9px 40px 10px 40px;
+transition: 0.2s ease;
+border: 1px solid grey;
+text-decoration-line: none;
+}
+
+a.links{
+font-family: lato;
+color: #1c2e4d;
+transition: 0.25 ease;
+text-decoration-line: none;
+}
+
+a:hover{
+background-color: abacc2;
+color: #1c2e4d;
+text-decoration-line: underline;
+}
+
+h1{
+font-family: Rancho;
+font-size: 60px;
+padding-top:20px;
+margin:1px;
+color:#010657 ;
+}
+
+h1.header2{
+font-size: 50px;
+text-align:center;
+color:#3c424d;
+}
+
+h3{
+font-family: Cormorant SC;
+color:#1c2e4d;
+font-size: 18px;
+}
+
+h2{
+font-family: Palanquin Dark;
+font-size: 30px;
+text-align:center;
+color: #53498a;
+}
+
+h4{
+font-family: lato;
+color:#67618c;
+font-size:18px
+}
+
+h3.sidebar{
+color: #1c2e4d;
+}
+
+p{
+font-family: Kanit
+}
+
+b{
+font-size:28px;
+font-variant:small-caps;
+color:#274473;
+font-style:oblique
+}
+
+u{
+color:#274473;
+font-weight:900
+}
+
+li{
+font-family:Nunito
+}
+
+a.top{
+font-family: lato;
+color: #1c2e4d;
+transition: 0.25 ease;
+text-decoration-line: none;
+}
+
+h2#about{
+font-family: great vibes;
+font-size: 50px;
+text-align:center;
+color: #b9ff73;
+}

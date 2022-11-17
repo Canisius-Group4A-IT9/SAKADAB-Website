@@ -1,0 +1,140 @@
+body{
+ width: 100%;
+ height: 140vh 100%;
+ 
+ background-size: cover;
+ background-position: absolute;	
+
+}
+
+a:link {
+  color: grey;
+}
+
+a:hover {
+  color: lightgrey;
+}
+
+.title{
+	position: absolute;
+	width: 210px;
+	margin-left: 500px;
+}
+
+div#header{
+    position: absolute; 
+    margin-top: 50px;
+	margin-left: 750px;
+	width: 100%;
+ background-size: 140vh 100%;
+ background-image: url(logo1.JPG);
+ background-size: cover;
+ background-position: absolute;	
+  width: 875px;
+  border: 15px solid red;
+  padding: 50px;
+  font-size: 33px;
+
+}	
+	
+div#navigation{
+position: absolute;
+margin-top: 340px;
+margin-left: 20px;
+background-color: white;
+  width: 2355px;
+  border: 15px solid red;
+  padding: 50px;
+  font-size: 40px;
+  word-spacing: 30px
+}		
+
+div#issue{
+    background-color:  white;
+	font-size: 35px;
+	word-spacing: 10px;
+	position: absolute;
+  width: 550px;
+  height: 1400px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 15px;
+  margin-top: 550px;
+}	
+
+div#advocacy{
+	background-color:  white;
+	font-size: 35px;
+	word-spacing: 10px;
+	position: absolute;
+  width: 550px;
+  height: 1400px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 1825px;
+  margin-top: 550px;
+}	
+
+div#sidebar{
+	position: absolute;
+	background-color: white;
+  width: 725px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 840px;
+  margin-top: 2600px;
+  font-size: 35px;
+}	
+
+div#footer{
+	position: absolute;
+	background-color: white;
+  width: 1825px;
+  border: 15px solid red;
+  padding: 50px;
+  margin: 280px;
+  margin-top: 3200px;
+  font-size: 35px;
+
+}
+
+div#group{
+	position: absolute;
+	background-color: #662B1F;
+  width: 500px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 20px;
+  margin-left: 945px;
+  margin-top: 1580px;
+  font-size: 35px;
+}	
+
+div#nataliePic{
+position: absolute;
+margin-top: 1250px;
+  margin-left: 1100px;
+  border: 15px solid blue;
+}
+
+div#indexPic{
+position: absolute;
+margin-top: 550px;
+  margin-left: 750px;
+}
+
+div#sakadabpic1{
+position: absolute;
+margin-top: 1950px ;
+margin-left: 15px ;
+}
+
+div#sakadabpic2{
+position: absolute;
+margin-top: 1950px ;
+margin-left: 1675px ;
+}
+
